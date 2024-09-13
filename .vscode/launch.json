@@ -3,6 +3,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "HelloWorld2",
+            "request": "launch",
+            "mainClass": "HelloWorld2",
+            "projectName": "unit1-workspace-averycolonthree_a58a3fc"
+        },
+        {
+            "type": "java",
             "name": "HelloWorld",
             "request": "launch",
             "mainClass": "HelloWorld",

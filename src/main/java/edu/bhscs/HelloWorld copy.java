@@ -1,4 +1,4 @@
-class HelloWorld {
+class HelloWorld2 {
   // all code is in a class. like little students
   public static void main(String[] args) {
     int x = 1;
